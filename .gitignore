@@ -1,0 +1,31 @@
+# Hugo - Hasil Build
+# Folder public berisi file statis hasil render.
+# Lebih baik di-generate ulang via GitHub Actions daripada disimpan di Git.
+/public/
+/resources/
+/_vendor/
+
+# OS - File Sistem
+.DS_Store
+Thumbs.db
+
+# Tools & Cache
+.hugo_build.lock
+hugo_stats.json
+.sass-cache
+.cache
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js (Jika Anda menggunakan npm untuk Tailwind atau aset lainnya)
+node_modules/
+dist/
+npm-debug.log*
+
+# Deployment & Environment
+.env
+.netlify/
