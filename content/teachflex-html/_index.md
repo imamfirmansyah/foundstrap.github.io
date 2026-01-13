@@ -96,4 +96,4 @@ Use the sidebar to move between sections such as:
 - **FAQ & Troubleshooting** - Common questions and quick fixes.
 - **Source & Credits** - Fonts, images, and third-party libraries used.
 
-If this is your first time using an HTML template, start with [**Getting Started**]({{< relref "teachflex/getting-started.md" >}}) and follow the sections in order.
+If this is your first time using an HTML template, start with [**Getting Started**]({{< relref "teachflex-html/getting-started.md" >}}) and follow the sections in order.
