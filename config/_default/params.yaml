@@ -1,0 +1,26 @@
+navbar:
+  displayTitle: false
+  displayLogo: true
+  logo:
+    path: "images/foundstrap-logo-dark.svg"
+    dark: "images/foundstrap-logo.svg"
+    link: "/"
+    width: 160
+
+search:
+  enable: true
+  type: "flexsearch"
+
+sidebar:
+  defaultMenuConfig:
+    contentDir: content/teachflex
+  displayDivider: true
+  open: true
+
+footer:
+  enable: true
+  displayCopyright: true
+
+editURL:
+  enable: false
+  base: "github.com"

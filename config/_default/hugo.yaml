@@ -1,0 +1,6 @@
+baseURL: "foundstrap.github.io"
+languageCode: "en-us"
+title: "Foundstrap Documentation"
+theme: "hextra"
+enableGitInfo: true
+enableEmoji: true
