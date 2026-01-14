@@ -2,6 +2,7 @@
 # Folder public berisi file statis hasil render.
 # Lebih baik di-generate ulang via GitHub Actions daripada disimpan di Git.
 /public/
+/documentation/
 /resources/
 /_vendor/
 
